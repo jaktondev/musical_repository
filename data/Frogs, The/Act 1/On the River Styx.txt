@@ -1,0 +1,22 @@
+DIONYSOS:
+I want to thank you, Xanthias.
+XANTHIAS:
+For what?
+DIONYSOS:
+For joining me on my quest.
+XANTHIAS:
+I didn't have much of a choice, being a slave and all.
+DIONYSOS:
+Still. There are particular times since my wife died when I feel -- so terribly alone.
+XANTHIAS:
+I didn't know you were married.
+DIONYSOS:
+It was many years ago. Her name was Ariadne.
+Have you ever been in love, Xanthias?
+XANTHIAS:
+Yeah, once. But there was someone else.
+She was having an affair with a centaur.
+You know -- half man, half horse? I couldn't compete with that.
+DIONYSOS:
+I had to ask...
+Last Update: June, 10th 2013

@@ -1,0 +1,60 @@
+[GRACE]
+Cecille will pick out all your clothes
+[CECILLE]
+[spoken] Green is her best color, no blue I think.
+[GRACE]
+Your bath is drawn by Mrs. Greer.
+[GREER]
+[spoken] Soap...no, bubbles, I think.
+[GRACE]
+Annette comes in to make your bed.
+[ANNETTE]
+[spoken] The silk, no the satin sheets, I think.
+[ANNIE]
+I think I'm gonna like it here!
+[GRACE]
+The swimming pool is to the left
+[ANNIE]
+[spoken] Inside the house? Oh boy.
+[GRACE]
+The tennis court is in the rear
+[ANNIE]
+[spoken] I never even picked up a racket.
+[GRACE]
+Have an instructor here at noon
+[spoken] Oh, and get that Don Budge fellow if he's available.
+[ANNIE]
+I think I'm gonna like it here.
+[GRACE]
+When you wake Ring for Drake
+Drake will bring your tray
+When you're through Mrs.Pugh
+Comes and takes it away.
+[GRACE AND SERVANTS]
+No need to pick up any toys
+[ANNIE]
+[spoken] That's okay, I haven't got any anyway.
+[GRACE]
+No finger will you lift my dear
+[ALL]
+We have but one request
+Please put us to the test
+[ANNIE]
+I know I'm gonna like it here
+Used to room in a tomb
+Where i'd sit and freeze
+Get me now, holy cow
+Could someone pinch me please.
+[GRACE]
+[spoken] She didn't mean it.
+[Singing] We've never had a little girl
+[ALL]
+We've never had a little girl
+[GRACE AND SERVANTS]
+We hope you understand Your wish is our command
+[ANNIE, GRACE AND SERVANTS]
+I know I'm gonna like it here
+We know you're gonna like It here
+[ALL]
+Welcome
+Last Update: June, 26th 2025

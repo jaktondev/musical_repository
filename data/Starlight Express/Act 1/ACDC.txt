@@ -1,0 +1,65 @@
+CONTROL
+Oh, boy, a late entry. A superstar challenger. These must be his minders.
+PEARL
+He's got a gun !
+KRUPP
+Halt. I am Krupp, Electra's armaments truck.
+ROCKY
+Who's Electra ?
+KRUPP
+We ask the questions.
+WRENCH
+I am Wrench, Electra's repair truck.
+DUSTIN
+This Electra must be rich to have his own repair truck.
+FLAT-TOP
+Or unreliable !
+PURSE
+I am Purse, Electra's money truck. Electra is rich. Switch your allegiance
+to Electra.
+VOLTA
+I am Volta, Electra's freezer truck.
+JOULE
+I am Joule, Electra's dynamite truck.
+VOLTA
+Electra is cool.
+JOULE
+Electra is hot.
+VOLTA
+Cool.
+JOULE
+Hot.
+COMPANY
+A megastar. A megawatt.
+Rich, hot, powerful. Rich, hot, cool.
+Rich, hot, powerful. Rich, hot, cool.
+Electra ... Electra ... Electra ... Electra ...
+ELECTRA
+I am electric - feel my attraction.
+Feel my magnetism - you will agree
+I am electric - I have the contact.
+I am electric - the future is me.
+AC/DC it's okay by me.
+I can switch and change my frequency.
+I am electric - mind how you touch me.
+I can shock you, I can set you on fire.
+I can reach up and pluck down the lightning.
+Watch the conductor, see the live wire.
+AC/DC it's okay by me.
+I can switch and change my frequency.
+COMPANY
+Electra ... Electra ... Electra ...
+ELECTRA
+I am electric - resistance is pointless
+Feel my magnetism - you will agree.
+You can't ignore me, you must adore me.
+I am electric, come closer to me.
+AC/DC it's okay by me.
+I can switch and turn you on to me
+Can switch and turn you on to me
+Can switch and turn you on to me.
+COMPANY
+Electra ... Electra ... Electra ... Electra ...
+ELECTRA
+I can switch and change my frequency.
+Last Update: December, 21st 2013

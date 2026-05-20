@@ -1,0 +1,138 @@
+NINA
+Are you ready to try again?
+BENNY
+I think I'm ready
+NINA
+Okay, here we go.
+Esquina
+BENNY
+Corner
+NINA
+Tienda
+BENNY
+Store
+NINA
+Bombilla
+BENNY
+Lightbulb
+NINA
+You're sure?
+BENNY
+I'm sure
+NINA
+3 out of 3, you did alright
+BENNY
+Teach me a little more
+NINA
+Calor
+BENNY
+Heat
+NINA
+Anoche
+BENNY
+Last night
+NINA
+Dolor
+BENNY
+Pain
+NINA
+That's right
+Llamame
+BENNY
+Call me
+NINA
+Azul
+BENNY
+Blue
+NINA
+Amame
+BENNY
+Love me
+NINA
+Perhps I do-
+BENNY
+Well, how do you say kiss me?
+NINA
+Besame
+BENNY
+And how do you say hold me?
+NINA
+Abrazame
+Al amanecer. At sunrise
+NINA/BENNY
+Anything at all can happen
+Just before the sunrise
+NINA
+Al amanecer
+BENNY
+Al amanecer
+SONNY
+Sunrise
+CARLA
+Sunrise
+VANESSA
+Sunrise
+DANIELA
+Sunrise
+MEN
+Sigue andando el camino por toda su vida.
+Respira.
+KEVIN
+Nina-
+BENNY
+I don't know
+NINA
+Yo no se
+BENNY
+What to do
+NINA
+Que hacer
+BENNY
+Now that I've found you
+NINA
+Ahora que te encontre
+BENNY
+What will he say?
+NINA
+Que dira?
+BENNY
+When he sees me around you?
+So how do you say help me?
+NINA
+Ayudame
+BENNY
+And how do you say promise me?
+NINA
+Prometeme
+NINA/BENNY
+Promise me you'll stay beyond the sunrise
+I don't care at all what people say beyond the sunrise
+NINA
+Promise me you'll stay
+BENNY
+I'll stay
+COMMUNITY
+Sunrise...
+Sunrise...
+Sunrise...
+Sunrise...
+BENNY
+And how do you say kiss me?
+NINA
+Besame
+BENNY
+And how do you say always?
+NINA
+Para siempre
+COMMUNITY
+Al amanecer
+NINA
+Al amanecer
+BENNY
+Al amanecer
+COMMUNITY
+Al amanecer
+NINA/BENNY
+I will be there
+Al amanecer
+Last Update: June, 10th 2013

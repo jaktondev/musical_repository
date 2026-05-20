@@ -1,0 +1,59 @@
+[Customers]
+(sing 2x)
+[Clerks,overlapping]
+(Sipos, Arpad,
+Ritter, Kodaly)
+(wait until 2nd time)
+I would like a cake of castiel soap
+And a powder puff
+Shampoo
+Goodbye Georg
+Is there a sale on?
+Let me have a hair net
+Bubble bath
+How much do you charge
+For your Mona Lisa?
+Maraczek's won't
+be the same without you
+[Kodaly]
+Sorry to see you go
+[Arpad]
+If I can ever help
+[All]
+Let me know
+Can you recommend an
+Unusual perfume?
+Something rather chic
+But inexpensive.
+That will make a
+Lovely Christmas gift
+I think you know the
+Kind that I'm after
+Do you have a lipstick
+Guaranteed kiss proof?
+Coconut oil
+Goodbye Georg
+What kind of mascara?
+Let me have a jar of
+Your vanishing cream
+And a bottle of your best
+??
+And can you wrap it as a gift and
+Send it?
+??
+And thank you very very much
+It's always such a
+Pleasure shopping here
+[Sipos]
+I wish there
+were time for a proper
+farewell
+[All]
+But for now good luck and
+goodbye Georg
+So long
+So long
+Please keep in touch
+Do keep in touch
+Won't you?
+Last Update: August, 17th 2016

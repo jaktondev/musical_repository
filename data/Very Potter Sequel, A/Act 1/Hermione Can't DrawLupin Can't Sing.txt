@@ -1,0 +1,12 @@
+Hermione can't draw,
+Hermione can't draw,
+Hermione cannot draw!
+She only reads books and she cannot draw
+Even if she's reading a how-to-draw book!
+[Dialogue]
+Lupin can't sing,
+Lupin can't sing,
+Lupin cannot sing!
+He only reads books and he cannot sing
+Even if he's reading a how-to-sing book.
+Last Update: July, 02nd 2014

@@ -1,0 +1,54 @@
+[Dialogue]
+[FREDERIC]
+Well, then, it is my duty, as a pirate, to tell you that, you are too tenderhearted! For instance, you make a point of never attacking a weaker party than yourselves, and when you attack a stronger party you invariably get thrashed
+[PIRATE KING]
+There is some truth in that
+[FREDERIC]
+Then, again, you make a point of never molesting an orphan!
+[SAMUEL]
+Of course: we are orphans ourselves, and know what it is
+[FREDERIC]
+Yes, but it has got about, and what is the consequence? Every one we capture says he’s an orphan. The last three ships we took proved to be manned entirely by orphans, and so we had to let them go. One would think that Great Britain’s mercantile navy was recruited solely from her orphan asylums – which we know is not the case
+[SAMUEL]
+But, hang it all! you wouldn’t have us absolutely merciless?
+[FREDERIC]
+There is my problem; until twelve o’clock I would, after twelve I wouldn’t. Oh, was ever a man placed in so delicate a situation?
+[Ruth]
+And Ruth, your own Ruth, whom you love so well, and who has won her middle-aged way into your boyish heart, what is to become of her?
+[PIRATE KING]
+Oh, he will take you with him
+[FREDERIC]
+Well, Ruth, I feel some little difficulty about you. It is true that I admire you very much, but I have been constantly at sea since I was eight years old, and yours is the only woman’s face I have seen during that time. I think it is a sweet face
+[Ruth]
+It is – oh, it is!
+[FREDERIC]
+I say I think it is; that is my impression. But as I have never had an opportunity of comparing you with other women, it is just possible I may be mistaken
+[PIRATE KING]
+True
+[FREDERIC]
+What a terrible thing it would be if I were to marry this innocent person, and then find out that she is, on the whole, plain!
+[PIRATE KING]
+Oh, Ruth is very well, very well indeed
+[SAMUEL]
+Yes, there are the remains of a fine woman about Ruth
+[FREDERIC]
+Do you really think so?
+[SAMUEL]
+I do
+[FREDERIC]
+Then I will not be so selfish as to take her with me. In justice to her, and in consideration for you, I will leave her behind
+[PIRATE KING]
+No, Frederic, this must not be. We are rough men, who lead a rough life, but we are not so utterly heartless as to deprive thee of thy love. I think I am right in saying that there is not one here who would rob thee of this inestimable treasure for all the world holds dear
+[Chorus OF PIRATES]
+Not one!
+[PIRATE kING]
+No, I thought there wasn’t. Keep thy love, Frederic, keep thy love
+[FREDERIC]
+You’re very good, I’m sure
+[PIRATE KING]
+Well, it’s the top of the tide, and we must be off. Farewell, Frederic. When your process of extermination begins, let our deaths be as swift and painless as you can conveniently make them
+[FREDERIC]
+I will! By the love I have for you, I swear it! Would that you could render this extermination unnecessary by accompanying me back to civilization!
+[PIRATE KING]
+No, Frederic, it cannot be. I don’t think much of our profession, but, contrasted with respectability, it is comparatively honest. No, Frederic, I shall live and die a Pirate King
+Last Update: November, 06th 2025

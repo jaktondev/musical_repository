@@ -1,0 +1,28 @@
+[project]
+name = "musical-repository"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "pandas>=3.0.2",
+    "plotly>=6.6.0",
+    "requests>=2.33.1",
+    "rich>=14.3.3",
+    "spacy>=3.8.14",
+    "streamlit>=1.56.0",
+    "torch>=2.11.0",
+    "transformers>=5.5.0",
+    "wikipedia>=1.4.0",
+]
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
+
+[tool.uv.sources]
+torch = [
+  { index = "pytorch-cpu" },
+]

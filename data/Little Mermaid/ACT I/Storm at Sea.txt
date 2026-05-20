@@ -1,0 +1,41 @@
+SAILORS
+Heave Ho
+Heave Ho
+Heave Ho
+Heave Ho
+SAILOR 1
+Hoist the main sails...
+SAILOR 2
+Batten the Hatches...
+GRIMSBY
+(spoken) I swore an oath to your dear father that I would have you married by your next birthday
+PRINCE ERIC
+(spoken) Trust me Grimsby when I come across the girl of my dreams it'll hit me like lightning
+SAILOR 3
+(spoken) Hurricane a'coming! King Triton must be angry indeed!
+PRINCE ERIC
+(spoken) Man the hatches! Then everyone below deck! Quickly!
+SCUTTLE
+(spoken) The wind's all of a sudden on the move here!
+ARIEL
+(spoken) Careful Scuttle. Watch out!
+SCUTTLE
+(spoken) Ariel....!
+SAILOR 1
+(spoken) Secure the rigging!
+GRIMSBY
+(spoken) No! Good Heavens!
+SAILOR 2
+(spoken) Eric! Take the wheel!
+GRIMSBY
+(spoken) No...!
+SAILOR 1
+(spoken) Careful boys!
+Man overboard!
+GRIMSBY
+(spoken) Prince Eric...!
+CHORUS
+Ahh ahh ahh
+Ahh ahh ahh
+Ahh ahh ahh ahh ahh ahh ah ah ahh
+Last Update: February, 09th 2018

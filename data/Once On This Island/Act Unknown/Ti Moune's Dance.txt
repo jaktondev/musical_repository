@@ -1,0 +1,9 @@
+WOMAN(offstage)
+We dance...
+LITTLE GIRL
+We dance.
+WOMAN,MAN, LITTLE GIRL
+We dance
+We dance!
+(Ti Moune Dances)
+Last Update: June, 26th 2013

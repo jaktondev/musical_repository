@@ -1,0 +1,153 @@
+BARRETT
+Fare-thee-well, my darlin'
+I'll be back before a fortnight has passed...
+BRIDE
+Fare-thee-well, my dalin'
+I'll be back before a
+Fortnight has
+Passed...
+BARRETT & FLEET
+Fare-thee-well, my darlin'
+ALL THREE
+...I'll be back before a fortnight has passed!
+BARRETT
+Barrett- stoker off the Baltic-
+FLEET
+Fleet- lookout off the Majestic-
+BRIDE
+Harold Bride- wireless operator with the Marconi
+Telegraph Company.
+BARRETT, BRIDE& FLEET
+There she is ...
+Towering high...
+Broad and grand...
+Ship of dreams!
+BARRETT, BRIDE, FLEET& CREWMEN
+Sailing day!
+Morning bright!
+Take your flight!
+Ship of dreams!...
+She strains at her lines,
+The smoke from he funnels trailing.
+Her prow like a knife,
+She'll cut through the waves unfailing.
+Soon to be
+Underway,
+Size and speed unexplored...
+And I'll be aboard
+That ship of dreams!
+LOADING INVENTORY
+STEVEDORE
+7,000 heads of fresh lettuce, Titanic!
+PITMAN
+Morning, Mr. Lightoler
+LIGHTOLER
+Morning, Mr. Pitman
+PITMAN
+Morning, Mr. Boxhall
+Morning, Captain Smith!
+LIGHTOLER
+Morning, Captian!
+4TH OFFICER & BOXHALL
+Morning, Captain...
+STEVEDORE
+36,000 Oranges, Titanic!
+PITMAN
+Morning, Mr. Hitchens
+HITCHENS
+Morning, Mr. Pitman
+PITMAN
+Morning, Mr. Murdoch
+HITCHENS
+Morning, Captain Smith
+CAPTAIN SMITH
+Morning, Murdoch
+MURDOCH
+Morning, Captain!
+CAPTAIN SMITH
+Mr. Pitman, please
+Complete the loading of the freight
+And prepare for the boarding of
+The serving staff and crew!
+PITMAN
+Aye, Captain!
+CREW & STAFF                     BELLBOY
+There she is...                  Morning, Mr. Andrews
+Hello, Mr. Ismay
+Towering high!                   Morning, Mr. Etches
+Hello, Mr. Pitman
+Broad and grand!                 Morning, Mr. Whitely
+Ship of dreams!
+STEVEDORE
+42,000 fresh eggs, Titanic!
+CREW & STAFF
+Sailing day!
+BELLBOY
+Morning, Mr. Crawford
+Hello, Mrs. Hutchinson
+Morning bright!
+BELLBOY
+Morning, Mrs. Robinson
+Hello, Mrs. Beecham
+Take you flight...
+Morning, Mr. Weikman!
+Ship of dreams!
+PITMAN
+122,000 pounds of meat, poultry and fish, Titanic!
+STEVEDORE
+40 tons of potatoes, 1,100 pounds of marmalade,
+37,000 bottles of wine, beer and spirits, Titanic!
+PITMAN
+55,000 china dishes and 20,000 crystal drinking glasses, Titanic!
+STEVEDORE
+One Renault town carriage motorcar, Titanic!
+CREW & STAFF
+Soon to be...
+BELLBOY
+Morning, Mr. Widgery
+Hello, Mr. Oliver
+Underway...
+BELLBOY
+Morning, Mr. Hartley
+Hello, Mr. Joughin
+Cheers! Mr. Weikman
+Size and speed
+Unexplored...
+ALL
+...And I'll be aboard that ship of dreams!
+THE LARGEST MOVING OBJECT
+ISMAY
+Captain Smith, has there ever been
+A finer morning to sail?
+CAPT. SMITH
+Never quite like this, Mr. Ismay!
+Never quite like this one, Sir!
+ISMAY
+Mr. Andrews, has the line ever had
+A faster ship for the mail?
+ANDREWS
+Not as fast as this, Mr. Ismay!
+Never quite like this one, Sir!
+ISMAY
+The pride
+CAPT. SMITH & ANDREWS
+The pride
+ALL THREE
+Of mankind...
+Dmoinion over the sea!
+ISMAY
+The dream
+CAPT. SMITH & ANDREWS
+The dream
+ALL THREE
+Of progress!
+It brings great honor to me!
+CAPT. SMITH
+To be the master...
+ANDREWS
+And the builder!
+ISMAY
+And the owner!
+ALL THREE
+Of the largest moving object in the world!
+Last Update: December, 30th 2013
